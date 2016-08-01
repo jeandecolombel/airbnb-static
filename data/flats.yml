@@ -1,0 +1,53 @@
+vieira:
+  owner_name: Patrick Vieira, Saint-Tropez
+  picture: vieira_house.jpg
+  owner_picture: vieira.jpg
+  name: Zodiac de Patrick
+  summary: A la recherche de nouveaux amis pour pêcher sur mon zodiac.
+  city: Patrick Vieira, Saint-Tropez
+  wifi: true
+
+zidane:
+  owner_name: Zinédine Zidane, Madrid
+  picture: zidane_house.jpeg
+  owner_picture: zidane.jpg
+  name: Maison d'architecte
+  summary: Je cherche un ami pour jouer à la wii.
+  city: Zinédine Zidane, Madrid
+  wifi: false
+
+lepers:
+  owner_name: Julien Lepers, Alençon
+  picture: lepers_manoir.jpg
+  owner_picture: lepers.jpg
+  name: Superbe manoir en Normandie.
+  summary: Prêt à tout pour retrouver un emploi.
+  city: Julien Lepers, Alençon
+  wifi: false
+
+jean_pascal:
+  owner_name: Jean-Pascal, Montreuil
+  picture: montreuil.jpg
+  owner_picture: jean_pascal.jpg
+  name: Studio de merde.
+  summary: Je suis un agitateur, provocateur, my name is Jean-Pascal.
+  city: Jean-Pascal, Montreuil
+  wifi: false
+
+kim:
+  owner_name: Kim Jong-un, Pyongyang
+  picture: palais.jpg
+  owner_picture: kim.jpeg
+  name: Palais présidentiel imposant
+  summary: J'aime les choses simples et particulièrement le Cacolac.
+  city: Kim Jong-un, Pyongyang
+  wifi: false
+
+moundir:
+  owner_name: Moundir, dans ton cul
+  picture: grotte.jpg
+  owner_picture: moundir.jpg
+  name: Grotte dans les Carpates
+  summary: GGrrrrrrrr
+  city: Moundir, dans ton cul
+  wifi: false
